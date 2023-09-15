@@ -16,7 +16,7 @@ public class Train extends Vehicle {
 			
 		}
 		
-		if(source=="Pune" && destination=="Bengaluru") {
+		if(source=="Pune" && destination=="Bangalore") {
 			
 			System.out.println("Fare is rs. 1000");
 		}

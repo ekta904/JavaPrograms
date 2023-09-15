@@ -12,6 +12,7 @@ public class HashMapStudy {
 		rtoNum.put(10, "Sangali");
 		rtoNum.put(04, "Mumbai");
 		rtoNum.put(14, "PCMC");
+		rtoNum.put(13, "Wardha");
 		System.out.println(rtoNum);
 
 	}

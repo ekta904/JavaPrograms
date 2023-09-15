@@ -33,4 +33,4 @@ public class ArmStrongeNumber {
 		}
 	}
 
-}
+}//371,1634

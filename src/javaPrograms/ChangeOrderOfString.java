@@ -23,7 +23,7 @@ public class ChangeOrderOfString {
 		System.out.println("===================================");
 
 		String s1= "This is new string";
-		String ar1[]=s.split(" ");
+		 String[] ar1 = s.split(" ");
 		System.out.println("Here the Even positions of the given string are reversed");
 
 		for(int i=0;i<=ar1.length-1;i++) //for Even positions
